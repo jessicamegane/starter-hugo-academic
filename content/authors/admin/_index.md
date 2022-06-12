@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/jessicamegane
 organizations:
   - name: University of Coimbra
-    url: https://www.stanford.edu/
+    url: https://www.uc.pt/
 education:
   courses:
     - course: PhD in Informatics Engineering

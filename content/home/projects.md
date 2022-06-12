@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Evolutionary Computation
+      tag: Evolutionary Computation
+    - name: Natural Language Processing
+      tag: NLP
     - name: Other
       tag: Demo
 
