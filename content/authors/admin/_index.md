@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#jessicac@dei.uc.pt
+    link: "mailto: jessicac@dei.uc.pt"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/malganius
