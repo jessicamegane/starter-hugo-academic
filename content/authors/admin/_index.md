@@ -43,5 +43,3 @@ superuser: true
 highlight_name: true
 ---
 I am a PhD student at the University of Coimbra, and I work as a researcher for the Evolutionary and Complex Systems (ECOS) group of the [Centre for Informatics and Systems of the University of Coimbra (CISUC)](https://www.cisuc.uc.pt/).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
