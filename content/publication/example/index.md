@@ -35,7 +35,7 @@ In this paper we propose Probabilistic Grammatical Evolution (PGE), which introd
 The results show that PGE has a better performance than GE, with statistically significant differences, and achieved similar performance when comparing with SGE.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: ""
 
 tags: [Genetic Programming, Grammatical Evolution, Probabilistic Context-Free Grammar]
 
@@ -69,7 +69,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: ""
  # - example
 
 # Slides (optional).
