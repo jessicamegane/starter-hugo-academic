@@ -6,11 +6,9 @@ title: 'Probabilistic Grammatical Evolution'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - NunoLourenço
-  - PenousalMachado
 
 # Author notes (optional)
-author_notes:
+author_notes: ""
 
 date: '2021-03-25T00:00:00Z'
 doi: 'https://doi.org/10.1007/978-3-030-72812-0_13'
