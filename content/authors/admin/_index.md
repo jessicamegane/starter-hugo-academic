@@ -1,7 +1,7 @@
 ---
 title: Jessica Mégane
 role: PhD Student
-avatar_filename: fotografia.png
+avatar_filename: logo.png
 bio: My research interests include evolutionary computation, neuroevolution, and
   complex systems.
 interests:

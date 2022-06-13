@@ -25,7 +25,7 @@ experience:
   - title: Researcher
     company: CISUC, University of Coimbra
     company_url: 'https://www.cisuc.uc.pt/'
-    company_logo: ecoa.png
+    company_logo: ecos
     location: Coimbra, Portugal
     date_start: '2019-09-01'
     date_end: ''
