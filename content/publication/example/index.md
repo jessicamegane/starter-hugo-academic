@@ -28,11 +28,7 @@ publication_types: ['1']
 publication: In European Conference on Genetic Programming (Part of EvoStar)
 publication_short: In EuroGP 2021
 
-abstract: Grammatical Evolution (GE) is one of the most popular Genetic Programming (GP) variants, and it has been used with success in several problem domains. Since the original proposal, many enhancements have been proposed to GE in order to address some of its main issues and improve its performance.
-
-In this paper we propose Probabilistic Grammatical Evolution (PGE), which introduces a new genotypic representation and new mapping mechanism for GE. Specifically, we resort to a Probabilistic Context-Free Grammar (PCFG) where its probabilities are adapted during the evolutionary process, taking into account the productions chosen to construct the fittest individual. The genotype is a list of real values, where each value represents the likelihood of selecting a derivation rule. We evaluate the performance of PGE in two regression problems and compare it with GE and Structured Grammatical Evolution (SGE).
-
-The results show that PGE has a better performance than GE, with statistically significant differences, and achieved similar performance when comparing with SGE.
+abstract: Grammatical Evolution (GE) is one of the most popular Genetic Programming (GP) variants, and it has been used with success in several problem domains. Since the original proposal, many enhancements have been proposed to GE in order to address some of its main issues and improve its performance.\nIn this paper we propose Probabilistic Grammatical Evolution (PGE), which introduces a new genotypic representation and new mapping mechanism for GE. Specifically, we resort to a Probabilistic Context-Free Grammar (PCFG) where its probabilities are adapted during the evolutionary process, taking into account the productions chosen to construct the fittest individual. The genotype is a list of real values, where each value represents the likelihood of selecting a derivation rule. We evaluate the performance of PGE in two regression problems and compare it with GE and Structured Grammatical Evolution (SGE).\nThe results show that PGE has a better performance than GE, with statistically significant differences, and achieved similar performance when comparing with SGE.
 
 # Summary. An optional shortened abstract.
 summary: ""
