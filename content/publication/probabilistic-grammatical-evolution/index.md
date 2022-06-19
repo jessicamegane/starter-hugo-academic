@@ -20,7 +20,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - nuno-lourenço
+  - nuno-lourenco
   - penousal-machado
 author_notes: ""
 publication: In European Conference on Genetic Programming (Part of EvoStar)

@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - nuno-lourenço
+  - nuno-lourenco
   - penousal-machado
 draft: false
 featured: false
