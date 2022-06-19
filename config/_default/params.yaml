@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jessica Mégane. This work is licensed under {license}'
+    notice: '© {year} Jessica Mégane.'
     license:
       enable: false
       allow_derivatives: false
