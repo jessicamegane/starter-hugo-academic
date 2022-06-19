@@ -15,7 +15,7 @@ abstract: Grammatical Evolution (GE) is one of the most popular Genetic
   performance than GE, with statistically significant differences, and achieved
   similar performance when comparing with SGE.
 slides: ""
-url_pdf: https://arxiv.org/abs/2103.08389
+url_pdf: https://arxiv.org/pdf/2103.08389.pdf
 publication_types:
   - "1"
 authors:
@@ -24,7 +24,17 @@ authors:
   - penousal-machado
 author_notes: ""
 publication: In European Conference on Genetic Programming (Part of EvoStar)
-summary: ""
+summary: "In this paper we propose Probabilistic Grammatical Evolution
+  (PGE), which introduces a new genotypic representation and new mapping
+  mechanism for GE. Specifically, we resort to a Probabilistic Context-Free
+  Grammar (PCFG) where its probabilities are adapted during the evolutionary
+  process, taking into account the productions chosen to construct the fittest
+  individual. The genotype is a list of real values, where each value represents
+  the likelihood of selecting a derivation rule. We evaluate the performance of
+  PGE in two regression problems and compare it with GE and Structured
+  Grammatical Evolution (SGE). The results show that PGE has a better
+  performance than GE, with statistically significant differences, and achieved
+  similar performance when comparing with SGE."
 url_dataset: ""
 url_project: ""
 publication_short: In EuroGP 2021
