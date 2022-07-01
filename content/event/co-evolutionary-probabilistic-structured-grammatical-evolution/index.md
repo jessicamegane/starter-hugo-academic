@@ -1,5 +1,5 @@
 ---
-title: Co-evolutionary Probabilistic Structured Grammatical Evolution
+title: Co-evolutionary Probabilistic Structured Grammatical Evolution at GECCO 2022
 abstract: Presentation of Co-evolutionary Probabilistic Structured Grammatical
   Evolution (Co-PSGE) algorithm, in which each individual in the population is
   composed by a grammar and a genotype, which is a list of dynamic lists, each
