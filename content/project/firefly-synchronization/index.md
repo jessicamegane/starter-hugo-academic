@@ -8,7 +8,7 @@ featured: false
 authors:
   - admin
 tags:
-  - Complex systems
+  - CS
 external_link: https://github.com/jessicamegane/FireflySynchronization
 image:
   filename: featured

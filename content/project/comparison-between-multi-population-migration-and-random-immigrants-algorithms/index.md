@@ -8,6 +8,8 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - EC
 external_link: https://github.com/jessicamegane/MultiplePopulations
 image:
   filename: featured

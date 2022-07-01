@@ -28,7 +28,9 @@ content:
     - name: All
       tag: '*'
     - name: Evolutionary Computation
-      tag: Evolutionary Computation
+      tag: EC
+    - name: Complex Systems
+      tag: CS
     - name: Natural Language Processing
       tag: NLP
     - name: Other

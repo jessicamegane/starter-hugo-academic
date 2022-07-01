@@ -19,6 +19,8 @@ draft: false
 featured: false
 authors:
   - admin
+  - penousal-machado
+  - nuno-lourenco
 tags:
   - presentation
 image:
