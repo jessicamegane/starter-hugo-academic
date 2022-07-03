@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 90
 
 title: Experience
 subtitle:
@@ -16,6 +16,7 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
+active: false
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
