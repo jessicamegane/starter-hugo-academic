@@ -24,7 +24,7 @@ authors:
 tags:
   - presentation
 image:
-  filename: 5e7bbc4f13c69629b7509c9111378835.png
+  filename: content/event/co-evolutionary-probabilistic-structured-grammatical-evolution/5e7bbc4f13c69629b7509c9111378835.png
   focal_point: Smart
   preview_only: false
 ---

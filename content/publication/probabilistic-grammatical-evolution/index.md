@@ -24,7 +24,7 @@ authors:
   - penousal-machado
 author_notes: ""
 publication: In European Conference on Genetic Programming (Part of EvoStar)
-summary: "IProbabilistic Grammatical Evolution
+summary: "Probabilistic Grammatical Evolution
   (PGE) introduces a new genotypic representation and new mapping
   mechanism for GE. Specifically, we resort to a Probabilistic Context-Free Grammar (PCFG) where its probabilities are adapted during the evolutionary   process, taking into account the productions chosen to construct the fittest
   individual. The genotype is a list of real values, where each value represents   the likelihood of selecting a derivation rule."
