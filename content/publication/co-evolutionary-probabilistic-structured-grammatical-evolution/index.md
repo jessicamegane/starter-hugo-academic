@@ -8,7 +8,6 @@ authors:
   - penousal-machado
 doi: https://doi.org/10.1145/3512290.3528833
 url_pdf: https://arxiv.org/abs/2204.08985.pdf
-doi: https://doi.org/10.1145/3512290.3528833
 url_code: https://github.com/jessicamegane/co-psge
 publication_short: Co-PSGE
 abstract: >-
